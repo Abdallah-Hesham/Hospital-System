@@ -1,0 +1,2 @@
+#The Hospital Management System is a comprehensive software solution designed to streamline and enhance the operations of healthcare facilities. It provides an integrated platform for managing doctors, patients, appointments, medical records, and prescriptions, ensuring efficient and error-free healthcare delivery.
+![image](https://github.com/user-attachments/assets/524c0bbf-70db-4592-b282-4fa3dd009d84)
