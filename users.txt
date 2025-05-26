@@ -1,0 +1,2 @@
+admin|admin123|admin
+doctor1|doc123|doctor

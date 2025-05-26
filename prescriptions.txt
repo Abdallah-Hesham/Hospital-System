@@ -1,0 +1,6 @@
+D001|P001|Blood pressure medication - Take once daily
+D001|123|45
+D002|P002|Vitamin D supplements - Take with meals
+D003|P003|Antibiotics - Take twice daily for 7 days
+D004|P004|Cholesterol medication - Take at night
+D005|P005|Pain relievers - Take as needed 

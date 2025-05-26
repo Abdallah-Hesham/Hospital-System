@@ -1,0 +1,3 @@
+P003|Flu symptoms - Prescribed medication
+P004|Routine checkup - Cholesterol slightly high
+P005|Sports injury - Recovering well 
